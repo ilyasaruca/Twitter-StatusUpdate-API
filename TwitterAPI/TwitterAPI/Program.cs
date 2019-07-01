@@ -15,9 +15,7 @@ namespace TwitterAPI
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.Write("asd");
-
+        {  
             // oauth application keys
             //https://developer.twitter.com
             var oauth_token = "your_access_token";
