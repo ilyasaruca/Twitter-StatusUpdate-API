@@ -3,7 +3,8 @@ using System.IO;
 using System.Net;
 using System.Security.Cryptography;
 using System.Text;
-namespace TwitterAPI
+
+namespace TwitterAPI_DotNetCore
 {
     class Program
     {
@@ -102,5 +103,3 @@ namespace TwitterAPI
         }
     }
 }
-
-
